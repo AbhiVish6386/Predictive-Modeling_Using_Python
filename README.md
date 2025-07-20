@@ -42,11 +42,12 @@ time (Follow-up period)
 The project repository is organized as per the bootcamp guidelines:
 
 # External CSS for styling
-├── templates/
-│   └── index.html        # The main HTML file for the web app
-├── app.py                # The Flask application backend
-├── Heart_Failure_Prediction.ipynb # Jupyter Notebook for model training & EDA
-├── model.pkl             # The saved, trained machine learning model
+
+├── templates/                                                                                                          
+│   └── index.html        # The main HTML file for the web app                                                                       
+├── app.py                # The Flask application backend                                                                         
+├── Heart_Failure_Prediction.ipynb # Jupyter Notebook for model training & EDA                                                        
+├── model.pkl             # The saved, trained machine learning model                                            
 
 
 ⚙️ How to Run the Project
